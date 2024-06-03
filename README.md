@@ -17,8 +17,9 @@ Spring 공부하고 있습니다!!!<br><br><br><br>
 <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black">
+
 <br><br><br>
 💻 Used At Least Once<br><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -26,8 +27,8 @@ Spring 공부하고 있습니다!!!<br><br><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junanaa)](https://github.com/anuraghazra/github-readme-stats)
 
